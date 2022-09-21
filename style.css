@@ -1,0 +1,38 @@
+title {
+    font: 12px Arial;
+}
+
+h1,h2,h3 { 
+    font: 24px Arial;
+    color: white;
+    height: 50px;
+}
+
+article {
+    font: 19px Arial;
+    color: white;
+}
+
+br {
+    color: white;
+}
+
+legend {
+    font: 20px Arial;
+    color: white;
+}
+
+a {
+    font: 17px Arial;
+
+}
+
+h4 {
+    font: 15px Arial;
+    color: white;
+}
+
+i {
+    font: 20px Arial;
+    color: white;
+}
